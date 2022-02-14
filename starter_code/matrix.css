@@ -1,0 +1,28 @@
+.elmatrix{
+    display: flex;
+    flex-direction: row;
+    margin-top: 200px;
+}
+.net{
+    font-weight: 700;
+    font-size: 34px;
+    text-align: center;
+    color: white;
+    background-color: var(--dark-blue);
+    border-bottom: 5px solid white;
+    border-left: 5px solid white;
+  
+    width: 129px;
+height: 56px;
+left: 8px;
+top: 4px;
+}
+.peli{
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+    width: 449px;
+height: 52px;
+left: 0px;
+top: 80px;
+}

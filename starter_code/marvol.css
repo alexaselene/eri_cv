@@ -1,0 +1,29 @@
+
+.marvel{
+    display: flex;
+    flex-direction: row;
+    margin-top: 200px;
+}
+.marvol{
+    font-weight: 700;
+    font-size: 34px;
+    text-align: center;
+    color: white;
+    background-color: var(--dark-blue);
+    border-bottom: 5px solid white;
+    border-left: 5px solid white;
+  
+    width: 147px;
+    height: 56px;
+    left: 8px;
+    top: 4px;
+}
+.tele{
+    font-weight: 400;
+    font-size: 16px;
+    text-align:left;
+    width: 448px;
+height: 78px;
+left: 0px;
+top: 80px;
+}
